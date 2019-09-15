@@ -1,0 +1,87 @@
+  @font-face {
+    font-family: auditype-normal;
+    src: url(../fonts/auditype-normal.woff);
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: auditype-bold;
+    src: url(../fonts/auditype-bold.woff);
+    font-weight: bold;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: auditype-italic;
+    src: url(../fonts/auditype-italic.woff);
+    font-weight: normal;
+    font-style: italic;
+  }
+  @font-face {
+    font-family: auditype-extendedbold;
+    src: url(../fonts/auditype-extendedbold.woff);
+    font-weight: bold;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: auditype-extendednormal;
+    src: url(../fonts/auditype-extendednormal.woff);
+    font-weight: normal;
+    font-style: normal;
+  }
+  .container {
+    font-family: 'auditype-normal', 'Avenir', Helvetica, Arial, sans-serif;
+    color: #333;
+  }
+  .bold{
+    font-family: 'auditype-bold', 'Avenir', Helvetica, Arial, sans-serif;
+  }
+  .bold-extended{
+    font-family: 'auditype-extendedbold', 'Avenir', Helvetica, Arial, sans-serif;
+  }
+  .normal-extended{
+    font-family: 'auditype-extendednormal', 'Avenir', Helvetica, Arial, sans-serif;
+  }
+  .italic{
+    font-family: 'auditype-italic', 'Avenir', Helvetica, Arial, sans-serif;
+  }
+  *,
+  *:before,
+  *:after{
+    box-sizing: border-box;
+  }
+  img{
+      width: 100%;
+  }
+  .red{
+      color: #ff3333;
+  }
+  .fs3{
+    font-size: 3em;
+  }
+  .fs05{
+    font-size: .5em;
+  }
+  .fs07{
+    font-size: .7em;
+  }
+  .fs08{
+    font-size: .8em;
+  }
+  .fs09{
+    font-size: .9em;
+  }
+  .fs12{
+    font-size: 1.2em;
+  }
+  .lh1{
+    line-height: 1;
+  }
+  .lh13{
+    line-height: 1.3;
+  }
+
+
+
+
+
+  
