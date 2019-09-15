@@ -135,7 +135,6 @@ export default {
   width: 100%;
   height: 100vh;
 }
-
 .form-control{
   margin: 0 .25rem;
   border: 1px solid;
@@ -146,7 +145,6 @@ export default {
   font-size: .9em;
   height: 3.5em;
 }
-
 button{
   margin: 0 .25rem;
   border: 0px solid;
@@ -176,12 +174,10 @@ button{
      cursor: pointer;     
      outline: none;
 }
-
 .form-radio:checked
 {
      background-color: #ff3333;
 }
-
 label
 {
     color: #333;
@@ -191,7 +187,6 @@ label
     font-size: .9em;
 
 }
- 
 .right-block{
   background-image: url(../assets/images/contact-background.png);
   background-repeat: no-repeat;

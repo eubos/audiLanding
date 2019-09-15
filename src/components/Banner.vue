@@ -55,7 +55,6 @@ export default {
     width: 100%;
     height: 100vh;
   }
-
   .striped-drop-shadow {
   position: relative;
 	font-size: 6em;
